@@ -1,0 +1,32 @@
+<div class="portfolio">
+  <div class="subtitle-wrap">
+    <h2 class="subtitle">{{subtitle}}</h2>
+  </div>
+  
+  <div class="search-wrap">
+    <div class="search">
+      <form>
+        <span class="search-input-wrap">
+          <input type="text" name="" class="search-input" placeholder="search project" ng-model="searchText">
+        </span>
+      </form>
+    </div>
+  </div>
+
+  <ul class="works">
+    <li ng-repeat="perYears in portfolios | filter:searchText" class="year-{{perYears.year}} window-type-{{$index}}">
+      <div class="year-wrap">
+        <strong class="year">{{perYears.year | filterPushWhitespaceToCenter}}</strong>
+      </div>
+      <ul>
+        <li ng-repeat="project in perYears.portfolio | filter:searchText" directive-project>
+          <div class="window">
+            <p class="title-display">{{project.titleDisplay}}</p>
+            <strong class="index">.{{$index | filterSwitchToOverDoubleFigure}}</strong>
+          </div>
+          <a href="#" class="title link-project">{{project.title}}</a>
+        </li>
+      </ul>
+    </li>  
+  </ul>
+</div>

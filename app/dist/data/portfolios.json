@@ -1,0 +1,663 @@
+[
+	{
+		"year": "2014",
+		"portfolio": [
+			{
+				"title": "NCSOFT ncjournal / blade&soul service",
+				"titleKor": "엔씨소프트 ncjournal / 블레이드앤소울 서비스",
+				"titleDisplay": "NCSOFT Services",
+				"client": "NCSOFT", 
+				"url": "",
+				"imgUrl": "",
+				"work": "javascript develop",
+				"period": "2014.03 - 2014.04",
+				"prize": "",
+				"description": "사내 서비스 NCJournal 개발 cowork / 블레이드앤소울 서비스 UI 모듈 개발",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "LGE web/mobile membership",
+				"titleKor": "엘지전자 웹/모바일 멤버쉽",
+				"titleDisplay": "LGE Membership platform",
+				"client": "Amoeba", 
+				"url": "",
+				"imgUrl": "",
+				"work": "javascript develop",
+				"period": "2013.11 - 2014.02",
+				"prize": "",
+				"description": "엘지전자 웹/모바일 전사회원 플랫폼 개발",
+				"copyright": "프리랜서.김현석"
+			}
+		]
+	}, 
+	{
+		"year": "2013",
+		"portfolio": [
+			{
+				"title": "NCSOFT lineage 15th anniversary event",
+				"titleKor": "엔씨소프트 리니지 15주년 이벤트",
+				"titleDisplay": "NCSOFT Lineage",
+				"client": "NCSOFT", 
+				"url": "",
+				"imgUrl": "",
+				"work": "Flash develop",
+				"period": "2013.11",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "NCSOFT aion 5th day of deva event",
+				"titleKor": "엔씨소프트 5th 데바의 날 이벤트",
+				"titleDisplay": "NCSOFT Aion",
+				"client": "NCSOFT", 
+				"url": "",
+				"imgUrl": "",
+				"work": "Flash develop",
+				"period": "2013.11",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "NCSOFT aion / blade&soul skill tree 2.0",
+				"titleKor": "엔씨소프트 아이온 서비스 UI / 블레이드앤소울 수련 스킬트리 2.0 서비스",
+				"titleDisplay": "NCSOFT Aion / Blade&soul",
+				"client": "NCSOFT", 
+				"url": "",
+				"imgUrl": "",
+				"work": "javascript develop",
+				"period": "2013.05 - 2013.11",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "Hyundai card Interaction Pattern Library",
+				"titleKor": "현대카드 UX 인터랙션 패턴 라이브러리",
+				"titleDisplay": "Hyundaicard IPL",
+				"client": "INPIX", 
+				"url": "",
+				"imgUrl": "",
+				"work": "technical PM / javascript develop",
+				"period": "2013.02 - 2013.04",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "Samsung Galaxy note2 mobile/web event",
+				"titleKor": "삼성 갤럭시노트2 '나도 감독이다' 이벤트 모바일/웹사이트",
+				"titleDisplay": "Samsung Galaxy note2",
+				"client": "Dove to rabbit", 
+				"url": "", 
+				"imgUrl": "",
+				"work": "html publish / javascript develop",
+				"period": "2013.02 - 2013.03",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "Seoul Arts Center mobile",
+				"titleKor": "예술의 전당 모바일웹사이트",
+				"titleDisplay": "SAC Mobile",
+				"client": "CSquare", 
+				"url": "",
+				"imgUrl": "",
+				"work": "javascript enhancement develop",
+				"period": "2013.01",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "SK Innovation battery website",
+				"titleKor": "에스케이이노베이션 웹사이트",
+				"titleDisplay": "SK Innovation battery",
+				"client": "VW", 
+				"url": "",
+				"imgUrl": "",
+				"work": "html publish cowork / javascript develop cowork / flash develop",
+				"period": "2013.01",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}
+		]
+	}, 
+
+	{
+		"year": "2012",
+		"portfolio": [
+			{
+				"title": "KD One website",
+				"titleKor": "경동원 웹사이트 메인",
+				"titleDisplay": "KD One",
+				"client": "VW", 
+				"url": "",
+				"imgUrl": "",
+				"work": "index page javascript develop",
+				"period": "2012.12",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "KD Navien experience",
+				"titleKor": "경동나비엔 체험관",
+				"titleDisplay": "KD Navien experience",
+				"client": "VW", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2012.11 - 2012.12",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "Shinyoung E&C website",
+				"titleKor": "신영E&C 웹사이트",
+				"titleDisplay": "Shinyoung E&C",
+				"client": "신영E&C", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2012.10 - 2012.11",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "Playhood website",
+				"titleKor": "플레이후드 웹사이트",
+				"titleDisplay": "Playhood",
+				"client": "playhood", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2012.09 - 2012.10",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "Samsung life promotion video",
+				"titleKor": "삼성생명 핵심가치 홍보 영상",
+				"titleDisplay": "Samsung life promotion",
+				"client": "blizzardscale", 
+				"url": "",
+				"imgUrl": "",
+				"work": "Flash develop",
+				"period": "2012.08 - 2012.09",
+				"prize": "",
+				"description": "",
+				"copyright": "프리랜서.김현석"
+			}, {
+				"title": "Tongyang plant website",
+				"titleKor": "동양플랜트 웹사이트",
+				"titleDisplay": "Tongyang plant",
+				"client": "cj systems", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2012.04 - 2012.06",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}, {
+				"title": "JLook website",
+				"titleKor": "제이룩",
+				"titleDisplay": "JLook",
+				"client": "joongang M&B", 
+				"url": "http://www.myjlook.com/",
+				"imgUrl": "",
+				"work": "website subpage javascript, publish",
+				"period": "2012.01 - 2012.03",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}
+		]
+	}, 
+
+	{
+		"year": "2011",
+		"portfolio": [
+			{
+				"title": "CJ ninebridge website",
+				"titleKor": "씨제이 나인브릿지 웹사이트",
+				"titleDisplay": "CJ ninebridge",
+				"client": "cj systems", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2011.06 - 2011.08",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}, {
+				"title": "Samsung card service",
+				"titleKor": "삼성카드 카드찾기 2.0",
+				"titleDisplay": "Samsung card search 2.0",
+				"client": "Samsung card", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2011.04 - 2011.06",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}, {
+				"title": "CJ azit website",
+				"titleKor": "씨제이 아지트 웹사이트",
+				"titleDisplay": "CJ azit",
+				"client": "cj systems", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2011.04 - 2011.05",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}, {
+				"title": "CJ donorscamp website",
+				"titleKor": "씨제이 도너스캠프 웹사이트",
+				"titleDisplay": "CJ donorscamp",
+				"client": "cj systems", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2010.12 - 2011.01",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}
+		]
+	},
+
+	{
+		"year": "2010",
+		"portfolio": [
+			{
+				"title": "Hyundai E&C website",
+				"titleKor": "현대건설 웹사이트",
+				"titleDisplay": "Hyundai E&C",
+				"client": "hyunadai E&C", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2010.10 - 2010.11",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}, {
+				"title": "KT U-cloud website",
+				"titleKor": "케이티 유클라우드 웹사이트",
+				"titleDisplay": "KT U-cloud",
+				"client": "KT", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2010.09 - 2010.10",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}, {
+				"title": "Samsung digital plaza website",
+				"titleKor": "삼성 디지털 플라자 웹사이트",
+				"titleDisplay": "Samsung digital plaza",
+				"client": "samsung", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2010.08 - 2010.09",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}, {
+				"title": "OCI group official website",
+				"titleKor": "오씨아이 그룹 웹사이트",
+				"titleDisplay": "OCI Group",
+				"client": "OCI", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2010.04 - 2010.07",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}, {
+				"title": "Hyundai finance shop website",
+				"titleKor": "현대 파이낸스샵 웹사이트",
+				"titleDisplay": "Hyundai finance shop",
+				"client": "Hyundaicard", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2010.04 - 2010.06",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}, {
+				"title": "Daekyo artimom website",
+				"titleKor": "대교 아티맘 웹사이트",
+				"titleDisplay": "Daekyo artimom",
+				"client": "대교", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2010.01 - 2010.03",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}, {
+				"title": "Sports toto website",
+				"titleKor": "스포츠토토 웹사이트",
+				"titleDisplay": "Sports toto",
+				"client": "hyunadai E&C", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2009.12 - 2010.06",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}, {
+				"title": "Tongyang MyAsset website",
+				"titleKor": "동양종금 마이에셋 웹사이트",
+				"titleDisplay": "Tongyang myAsset",
+				"client": "tongyang", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2009.12 - 2010.01",
+				"prize": "",
+				"description": "",
+				"copyright": "vw"
+			}
+		]
+	},
+
+	{
+		"year": "2009",
+		"portfolio": [
+			{
+				"title": "Melon website",
+				"titleKor": "멜론 웹사이트",
+				"titleDisplay": "Melon",
+				"client": "melon", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2009.06 - 2009.09",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}, {
+				"title": "Samsung fire website",
+				"titleKor": "삼성화재 웹사이트",
+				"titleDisplay": "Samsung fire",
+				"client": "samsung fire", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2009.06 - 2009.07",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}, {
+				"title": "LeCoq sportif SS501 website",
+				"titleKor": "르꼬끄 스포르티브 SS501 웹사이트",
+				"titleDisplay": "LeCoq sportif",
+				"client": "lecoq sportif", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2009.03 - 2009.04",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}, {
+				"title": "Jigo id website",
+				"titleKor": "지고 아이디 웹사이트",
+				"titleDisplay": "Jigo id",
+				"client": "jigo id", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2009.02 - 2009.03",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}, {
+				"title": "Monami design factory website",
+				"titleKor": "모나미 디자인팩토리 웹사이트",
+				"titleDisplay": "Monami design factory",
+				"client": "monami", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2009.01 - 2009.02",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}
+		]
+	},
+
+	{
+		"year": "2008",
+		"portfolio": [
+			{
+				"title": "Samsung fire RIA",
+				"titleKor": "삼성화재 상해보험접수 RIA",
+				"titleDisplay": "Samsung fire RIA",
+				"client": "samsung fire", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2008.10 - 2008.12",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}, {
+				"title": "Shizuoka guide website",
+				"titleKor": "시즈오카 가이드 웹사이트",
+				"titleDisplay": "Shizuoka guide",
+				"client": "shizuoka tourism board", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2008.06 - 2008.07",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}, {
+				"title": "Stop cc campaign website",
+				"titleKor": "대한암협회 stop cc 캠페인 웹사이트",
+				"titleDisplay": "Stop cc campaign",
+				"client": "KCS", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2008.05 - 2008.06",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}, {
+				"title": "Starcity mall website",
+				"titleKor": "스타시티몰 웹사이트",
+				"titleDisplay": "Starcity mall",
+				"client": "starcity mall", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2008.03 - 2008.04",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}, {
+				"title": "Nurisam website",
+				"titleKor": "누리샘 웹사이트",
+				"titleDisplay": "Nurisam",
+				"client": "samsung", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2008.02 - 2008.03",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}
+		]
+	},
+
+	{
+		"year": "2007",
+		"portfolio": [
+			{
+				"title": "Mr.pizza website",
+				"titleKor": "미스터피자 웹사이트",
+				"titleDisplay": "Mr.pizza",
+				"client": "mr.pizza", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2007.10 - 2007.12",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}, {
+				"title": "Woongjin coway website",
+				"titleKor": "웅진코웨이 웹사이트",
+				"titleDisplay": "Woongjin coway",
+				"client": "woongjin coway", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2007.09 - 2007.10",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}, {
+				"title": "W-store website",
+				"titleKor": "더블유스토어 웹사이트",
+				"titleDisplay": "W-store",
+				"client": "kolon wellcare", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2007.08 - 2007.09",
+				"prize": "",
+				"description": "",
+				"copyright": "vricks republic"
+			}, {
+				"title": "iMBC I'm news website",
+				"titleKor": "아이엠비씨 아이엠뉴스 웹사이트",
+				"titleDisplay": "iMBC I'm news",
+				"client": "iMBC", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2007.02 - 2007.03",
+				"prize": "",
+				"description": "",
+				"copyright": "saltcake"
+			}, {
+				"title": "SBC website",
+				"titleKor": "중소기업진흥공단 웹사이트",
+				"titleDisplay": "SBC",
+				"client": "sbc", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2007.01 - 2007.03",
+				"prize": "",
+				"description": "",
+				"copyright": "saltcake"
+			}, {
+				"title": "Pantech Sky dialer",
+				"titleKor": "팬택 스카이 플래시 다이얼러",
+				"titleDisplay": "Pantech Sky dialer",
+				"client": "pantech", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2006.07 - 2007.03",
+				"prize": "",
+				"description": "",
+				"copyright": "saltcake"
+			}, {
+				"title": "Pantech Sky EI5 GUI",
+				"titleKor": "팬택 스카이 EI5 GUI",
+				"titleDisplay": "Pantech Sky EI5 GUI",
+				"client": "pantech", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2006.07 - 2007.03",
+				"prize": "",
+				"description": "",
+				"copyright": "saltcake"
+			}
+		]
+	},
+
+	{
+		"year": "2006",
+		"portfolio": [
+			{
+				"title": "SKKU MBA website",
+				"titleKor": "성균관대학교 MBA 웹사이트",
+				"titleDisplay": "SKKU MBA",
+				"client": "skku", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2006.08 - 2006.10",
+				"prize": "",
+				"description": "",
+				"copyright": "saltcake"
+			}, {
+				"title": "Motorola PCSync",
+				"titleKor": "모토로라 피씨싱크 어플리케이션",
+				"titleDisplay": "Motorola PCSync",
+				"client": "motorola", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2006.07 - 2006.08",
+				"prize": "",
+				"description": "",
+				"copyright": "saltcake"
+			}, {
+				"title": "Motorola idle GUI",
+				"titleKor": "모토로라 아이들 gui",
+				"titleDisplay": "Motorola IDLE",
+				"client": "motorola", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2006.06 - 2006.07",
+				"prize": "",
+				"description": "",
+				"copyright": "saltcake"
+			}, {
+				"title": "Ritzcarlton seoul website",
+				"titleKor": "리츠칼튼 서울 웹사이트",
+				"titleDisplay": "Ritzcarlton",
+				"client": "ritzcarlton seoul", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2006.04 - 2006.05",
+				"prize": "",
+				"description": "",
+				"copyright": "saltcake"
+			}, {
+				"title": "LGE Mobile GUI",
+				"titleKor": "엘지전자 모바일 gui",
+				"titleDisplay": "LGE Mobile GUI",
+				"client": "LGE", 
+				"url": "",
+				"imgUrl": "",
+				"work": "",
+				"period": "2006.03 - 2006.04",
+				"prize": "",
+				"description": "",
+				"copyright": "saltcake"
+			}
+		]
+	}
+]

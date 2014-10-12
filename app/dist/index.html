@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+  <head lang="ko">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>dragmove.com</title>
+    <meta name="description" content="dragmove.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+    <link rel="apple-touch-icon" href="img/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="img/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/touch-icon-ipad-retina.png">
+    <link rel="apple-touch-startup-image" href="img/startup.png"><!-- 320x 480 -->
+
+    <link href='http://fonts.googleapis.com/css?family=Lato|Ubuntu|Carme|Roboto' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/earlyaccess/nanumgothic.css">
+    <link rel="stylesheet" href="css/main.min.css">
+  </head>
+
+  <body ng-controller="AppController" directive-resize>
+    <div class="container" directive-container>
+      <header class="header" directive-header>
+        <div class="header-inner">
+          <h1 class="logo">
+            <a href="#index">
+              <img src="img/logo.png" alt="dragmove logo" class="logo-img">
+            </a>
+          </h1>
+
+          <directive.navigation></directive.navigation>
+          <directive.display-navi-btn></directive.display-navi-btn>
+        </div>
+      </header>
+
+      <div class="contents">
+        <div ng-view></div>
+      </div>
+
+      <footer class="footer">
+        <p class="description">
+          조금 느리게<br>
+          견고하게<br>
+          닮지 않게
+        </p>
+        <h1 class="title">dragmove.com</h1>
+      </footer>
+    </div>
+    
+    <script data-main="js/main" src="js/lib/require.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-40880385-2', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>

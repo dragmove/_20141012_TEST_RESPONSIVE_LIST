@@ -1,0 +1,54 @@
+<div class="profile">
+  <div class="subtitle-wrap">
+    <h2 class="subtitle">{{subtitle}}</h2>
+  </div>
+
+  <div class="company">
+    <span class="company-number"></span>
+    <div class="window">
+      <h3 class="title">Company</h3>
+      <strong class="index">.01</strong>
+    </div>
+
+    <ul class="career">
+      <li ng-repeat='career in careers'>
+        <strong class="company-name">{{career.company}}</strong>
+        <p class="position">{{career.position}}</p>
+        <p class="date">{{career.date}}</p>
+      </li>
+    </ul>
+  </div>
+
+  <div class="awards">
+    <span class="awards-number"></span>
+    <div class="window">
+      <h3 class="title">Awards</h3>
+      <strong class="index">.02</strong>
+    </div>
+
+    <ul class="projects">
+      <li ng-repeat='project in projects'>
+        <span class="title">
+          <p class="name">{{project.award + ' '}}<span class="year">{{project.year}}</span></p>
+        </span>
+        <p class="section">{{project.prize}}</p>
+        <strong class="project">{{project.name}}</strong>
+      </li>
+    </ul>
+  </div>
+
+  <div class="contact">
+    <span class="contact-deco"></span>
+    <div class="window">
+      <h3 class="title">Contact</h3>
+      <strong class="index">.03</strong>
+    </div>
+    
+    <div class="email-wrap">
+      <a class="email" href="mailto:{{email}}">{{email}}</a>
+    </div>
+    <div class="phone-wrap">
+      <a class="phone" href="tel:{{phone.calling}}">{{phone.display}}</a>
+    </div>
+  </div>
+</div>

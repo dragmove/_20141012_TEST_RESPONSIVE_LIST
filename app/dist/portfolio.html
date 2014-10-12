@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+  <head lang="ko">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>dragmove.com</title>
+    <meta name="description" content="dragmove.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+     
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro|Duru+Sans|Doppio+One|Carme|Ubuntu|Lato|Roboto|Rock+Salt">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/earlyaccess/nanumgothic.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/main.css">
+    <style type="text/css">
+    </style>
+  </head>
+
+  <body>
+    <div class="container" ng-controller="AppController">
+      <header class="header">
+        <div class="header-inner">
+          <h1 class="logo">
+            <a href="#index">
+              <img src="img/logo.png" alt="dragmove logo" class="logo-img">
+            </a>
+          </h1>
+
+          <directive.navigation></directive.navigation>
+
+          <a href="#" class="display-navi-btn" title="display navi btn"></a>
+        </div>
+      </header>
+
+      <div class="contents" ng-view>
+        
+        <div class="portfolio">
+          <h2 class="subtitle">PORTFOLIO</h2>
+          
+          <div class="search-wrap">
+            <div class="search">
+              <form>
+                <span class="search-input-wrap">
+                  <input type="text" name="" class="search-input" placeholder="search">
+                </span>
+              </form>
+            </div>
+          </div>
+
+          <ul class="works">
+            <li>
+              <strong class="year">20 14</strong>
+              <ul>
+                <li>
+                  <div class="window">
+                    <p class="title-display">Tongyang-Plant</p>
+                    <strong class="index">01</strong>
+                  </div>
+                  <a href="#" class="title">LGE<br>Membership<br>Platform</a>
+                </li>
+                
+                <li>
+                  <div class="window">
+                    <p class="title-display">Tongyang-Plant</p>
+                    <strong class="index">02</strong>
+                  </div>
+                  <a href="#" class="title">Tongyang-Plant</a>
+                </li>
+
+                <li>
+                  <div class="window">
+                    <p class="title-display">Tongyang-Plant</p>
+                    <strong class="index">01</strong>
+                  </div>
+                  <a href="#" class="title">Tongyang-Plant</a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <strong class="year">20 13</strong>
+              <ul>
+                <li>
+                  <div class="window">
+                    <p class="title-display">Tongyang-Plant</p>
+                    <strong class="index">01</strong>
+                  </div>
+                  <a href="#" class="title">Tongyang-Plant</a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <strong class="year">20 12</strong>
+              <ul>
+                <li>
+                  <div class="window">
+                    <p class="title-display">Tongyang-Plant</p>
+                    <strong class="index">01</strong>
+                  </div>
+                  <a href="#" class="title">Tongyang-Plant</a>
+                </li>
+              </ul>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <footer class="footer">
+          <p class="description">
+            조금 느리게<br>
+            견고하게<br>
+            닮지 않게
+          </p>
+          <h1 class="title">dragmove.com</h1>
+      </footer>
+    </div>
+  </body>
+</html>

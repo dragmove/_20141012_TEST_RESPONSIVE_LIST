@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+  <head lang="ko">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>dragmove.com</title>
+    <meta name="description" content="dragmove.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+    <link rel="apple-touch-icon" href="img/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="img/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/touch-icon-ipad-retina.png">
+    <link rel="apple-touch-startup-image" href="img/startup.png"><!-- 320x 480 -->
+
+    <link href='http://fonts.googleapis.com/css?family=Lato|Ubuntu|Carme|Roboto' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/earlyaccess/nanumgothic.css">
+    
+    <!-- develop version -->
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+
+  <body ng-controller="AppController" directive-resize>
+
+    <div class="container">
+      <header class="header">
+        <div class="header-inner">
+          <directive.navigation></directive.navigation>
+        </div>
+      </header>
+    </div>
+    
+    <script data-main="js/main" src="js/lib/require.js"></script>
+  </body>
+</html>

@@ -1,0 +1,190 @@
+<!doctype html>
+<html>
+  <head lang="ko">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>dragmove.com</title>
+    <meta name="description" content="dragmove.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+     
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro|Duru+Sans|Doppio+One|Carme|Ubuntu|Lato">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/main.css">
+    <style type="text/css">
+      
+    </style>
+  </head>
+
+  <body>
+
+    <div class="container">
+      <header class="header">
+        <div class="header-inner">
+          <h1 class="logo">
+            <a href="#index">
+              <img src="img/logo.png" alt="dragmove logo" class="logo-img">
+            </a>
+          </h1>
+
+          <nav class="navi">
+            <div class="bird">
+              <img src="img/twitter_bird.png" alt="bird">
+            </div>
+
+            <ul>
+              <li class="profile"><a href="#/profile" title="profile" class="on">PROFILE</a></li>
+              <li class="portfolio"><a href="#/portfolio" title="portfolio">PORTFOLIO</a></li>
+              <li class="blog"><a href="http://blog.naver.com/dragmove" target="blank" title="dragmove blog">BLOG</a></li>
+              <li class="twitter">
+                <a href="" title="dragmove twitter">
+                  <img src="img/twitter_btn.png" alt="TWITTER">
+                </a>
+              </li>
+            </ul>
+          </nav>
+
+          <a href="#" class="display-navi-btn" title="display navi btn"></a>
+        </div>
+      </header>
+
+      <div class="contents" ng-controller="ProfileController">
+        <h2 class="subtitle">{{$scope.subtitle}}</h2>
+        
+        <div class="company">
+          <span class="company-number"></span>
+          <div class="window">
+            <h3 class="title">Company</h3>
+          </div>
+
+          <ul class="career">
+            <li ng-repeat='career in careers'>
+              <strong class="company-name">{{career.company}}</strong>
+              <p class="position">{{career.position}}</p>
+              <p class="date">{{career.date}}</p>
+            </li>
+
+            <!--
+            <li>
+              <strong class="company-name">브이더블유</strong>
+              <p class="position">Interactive Director</p>
+              <p class="date">2009.12 - 2012.08</p>
+            </li>
+            <li>
+              <strong class="company-name">브릭스리퍼블릭</strong>
+              <p class="position">Interactive Designer</p>
+              <p class="date">2007.07 - 2009.09</p>
+            </li>
+            <li>
+              <strong class="company-name">솔트케이크</strong>
+              <p class="position">Interactive Director</p>
+              <p class="date">2006.03 - 2007.03</p>
+            </li>
+            -->
+          </ul>
+        </div>
+
+        <div class="awards">
+          <span class="awards-number"></span>
+          <div class="window">
+            <h3 class="title">Awards</h3>
+          </div>
+
+          <ul class="projects">
+            <li>
+              <span class="title">
+                <p class="name">&amp;Award <span class="year">2011</span></p>
+              </span>
+              <p class="section">Tourism/Leisure Winner</p>
+              <strong class="project">CJ Ninebridges</strong>
+            </li>
+            <li>
+              <span class="title">
+                <p class="name">Web Award Korea <span class="year">2011</span></p>
+              </span>
+              <p class="section">Leisure/Sports Grand Prize</p>
+              <strong class="project">CJ Ninebridges</strong>
+            </li>
+            <li>
+              <span class="title">
+                <p class="name">Web Award Korea <span class="year">2011</span></p>
+              </span>
+              <p class="section">Construction Grand Prize</p>
+              <strong class="project">Hyundai E&amp;C</strong>
+            </li>
+            <li>
+              <span class="title">
+                <p class="name">Web Award Korea <span class="year">2010</span></p>
+              </span>
+              <p class="section">Juvenile Education Grand Prize</p>
+              <strong class="project">Daekyo Artimom</strong>
+            </li>
+            <li>
+              <span class="title">
+                <p class="name">Web Award Korea <span class="year">2010</span></p>
+              </span>
+              <p class="section">Service Nominee</p>
+              <strong class="project">SportsToTo</strong>
+            </li>
+            <li>
+              <span class="title">
+                <p class="name">Korea Digital Media Award <span class="year">2010</span></p>
+              </span>
+              <p class="section">Chemistry Grand Prize</p>
+              <strong class="project">OCI Group Official</strong>
+            </li>
+            <li>
+              <span class="title">
+                <p class="name">Korea Digital Media Award <span class="year">2010</span></p>
+              </span>
+              <p class="section">Online Education Grand Prize</p>
+              <strong class="project">Daekyo Artimom</strong>
+            </li>
+            <li>
+              <span class="title">
+                <p class="name">Web Award Korea <span class="year">2008</span></p>
+              </span>
+              <p class="section">Franchise Grand Prize</p>
+              <strong class="project">Mr.Pizza</strong>
+            </li>
+            <li>
+              <span class="title">
+                <p class="name">Web Award Korea <span class="year">2008</span></p>
+              </span>
+              <p class="section">Distribution Excellent Prize</p>
+              <strong class="project">Starcity Mall</strong>
+            </li>
+            <li>
+              <span class="title">
+                <p class="name">Web Award Korea <span class="year">2008</span></p>
+              </span>
+              <p class="section">Distribution Nominee</p>
+              <strong class="project">W-Store</strong>
+            </li>
+          </ul>
+        </div>
+
+         <div class="contact">
+          <span class="contact-deco"></span>
+          <div class="window">
+            <h3 class="title">Contact</h3>
+          </div>
+          
+          <a class="email" href="mailto:dragmove@naver.com">dragmove@naver.com</a>
+          <a class="phone" href="tel:010-8863-2191">010.8863.2191</a>
+        </div>
+      </div>
+      
+      <footer class="footer">
+          <p class="description">
+            조금 느리게<br>
+            견고하게<br>
+            닮지 않게
+          </p>
+          <h1 class="title">dragmove.com</h1>
+      </footer>
+    </div>
+    
+    <script data-main="js/main" src="js/lib/require.js"></script>
+  </body>
+</html>

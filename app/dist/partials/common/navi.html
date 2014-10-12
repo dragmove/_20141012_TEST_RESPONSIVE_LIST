@@ -1,0 +1,17 @@
+<nav class="navi" ng-controller="NaviController">
+	<div class="bird">
+	  <img src="img/twitter_bird.png" alt="bird">
+	</div>
+
+	<ul>
+	  <li ng-repeat='menu in menus' class='menu.class' directive-menu>
+	    <a href="{{menu.href}}" target="{{menu.target}}" title="{{getLowerCase(menu.title)}}" ng-click='activateNavi($index, menu.target)'>{{menu.title}}</a>
+	  </li>
+
+	  <li class="twitter">
+	    <a href="https://twitter.com/dragmove" target="_blank" title="dragmove twitter" twitter-btn>
+	      <img src="img/twitter_btn.png" alt="TWITTER">
+	    </a>
+	  </li>
+	</ul>
+</nav>
